@@ -1,3 +1,9 @@
+/*
+        This is a "Tic tac toe" game as console application
+    - written by Kurzawa :)
+
+*/
+
 #include "headers.h"
 
 int main()
